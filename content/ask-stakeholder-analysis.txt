@@ -1,0 +1,106 @@
+# Stakeholder Analysis
+# Identify and analyze all parties affected by your problem and solution
+All of management will be affected as well as employees. This issue could eventually even affect the shareholders of our company.
+## Internal Stakeholders
+
+### Senior Management
+- **Interest in Problem:**
+As senior management you depend on the people below you to continue to produce efficient work and uphold company culture. If you are dealing with issues of motivation in your company this can make it hard to continue within your company's strategic path. This makes it hard to reach goals, and overall hurts the companies reputation. They also will have to take all their time to go through the satisfaction surveys to measure what is causing the motivation problems and how to fix them, as well as see how much each employee deserves from their performance output.
+- **Interest in Solution:**
+Senior management would be able to track what is the cause of the issue and correct it. They will be able to focus on guiding the company towards their goals and where they want to be without worry of there being disruption within the company. Overall better company culture. 
+- **Influence Level:**
+HIGH
+- **Support Level:**
+Likely
+
+### Middle Management
+- **Interest in Problem:**
+It is hard to lead when your workers do not want to be led. As middle management if your dealing with workers lacking motivation, who show minimal effort and are not engaged, this can make your job of leading almost impossible. Senior management is going to be on them about fixing the issues within employees. They are going to be the ones dealing with some of the new issues that come up from increased competition which branches from new performance incentives. They will also be involved in going through the satisfaction surveys to see where they are going wrong. 
+- **Interest in Solution:**
+They would gain a better workplace where their co-workers are excited to work, they would be able to see how they can improve their leadership as well. The negative side of this could be that they are going to have to take more time with redirecting the employees away from anything decreasing their performance affecting both sides pay.
+- **Influence Level:** [High/Medium/Low influence on implementation]
+High
+- **Support Level:** [Likely supporter/neutral/resistant]
+Likely
+### Employees/Staff
+- **Interest in Problem:**
+An employee thats not motivated will be more likely to put out work that is not their best. They will feel like they are a slave to the workplace. If they are not putting out their best work that can lead to layoffs, which is the worst case scenario for them to lose their job.
+- **Interest in Solution:**
+They can now gain compensation packages for better performance and upholding good efficiency in their work. They will now be able to find motivation as they are getting paid more for better output, which is a known factor for increasing motivation. They can also gain more say in how the company moves forward, the satisfaction surveys will allow them to give feedback to their managers on how they are being affected within the organization.
+- **Influence Level:** [High/Medium/Low influence on solution success]
+HIGH
+- **Support Level:** [Likely supporter/neutral/resistant]
+Neutral
+### Other Internal Groups
+- **Department/Group:** Human Resources
+- **Interest in Problem:** They will have to deal with the making of the surveys as well as how the compensation packages would work for the specific company.
+- **Interest in Solution:** Human resources main job is to align the people with the company goals and strategies. They would most likely be the one to come up with these different solutions.
+- **Influence Level:** High
+- **Support Level:** Likely
+## External Stakeholders
+
+### Customers/Clients
+- **Interest in Problem:** This issue can affect customers if the employees are not upholding efficiency. This can lead to lack of satisfaction in the clients whether that means from the services of products provided.
+- **Interest in Solution:** When it comes to this solution the customers mainly only benefit. The employees are going to bring more to the table if they are engaged at work and more satisfied. This can lead to more/better products as well as better services provided. If the clients are only getting better then they are really only benefiting, although the competition between clients in some cases could lead to defective services could result in negative outcomes.
+- **Influence Level:** Medium
+- **Support Level:** Likely
+
+### Suppliers/Partners
+- **Interest in Problem:** This problem will only affect suppliers and partners if they lack of motivation starts to take a toll on the business of the company, for instance if it starts to take away from income they could be receiving. That would put the suppliers in a position where they may have to stop doing business with the company.
+- **Interest in Solution:** The suppliers could lose some money they would normally get if now the company has to allocate for implentation of compensation packages. Although they could gain more money if the implementation improves business of the company.
+- **Influence Level:** Low
+- **Support Level:** Neutral
+
+### Regulatory Bodies
+- **Interest in Problem:** If motivation and job satisfaction are low this could lead to unethical practices as well as violation of rules by employees just to "get it done".
+- **Interest in Solution:** They should be more than interested in this solution because it will lead to more compliance with rules set, as well as make sure workers are doing things the way it should be done. They also will not have to deal with a higher amount of cases where there are violations, relieving their stress.
+- **Influence Level:** High
+- **Support Level:** Their support will be high and their response will be to go along with the implementation as it will only better the company as well as compliance.
+
+### Community/Society
+- **Interest in Problem:** A business not being able to provide their highest level of performance within a community can be devastating. It can lead to decline not only in company itself, but the community around it. If they are depending on workers to show up motivated and ready to go, giving the best products and services, that is what they should receive. Also this problem correlates over to layoffs and unemployment, which no community needs or wants.
+- **Interest in Solution:** If the company can continue to provide better performance due to new implementations then the community only flourishes. It can lead to more business opportunites around them as well as more jobs for those within the society. It also will increase satisfaction not only for employees but those that expect products or services from said company.
+- **Influence Level:** Medium
+- **Support Level:** High
+
+## Stakeholder Engagement Strategy
+
+Employees, HR Department
+Those workers that we want to increase motivation for need to be managed closely to make sure they are receiving the right amount of compensation for their work. Then, the HR Department is directly involved with changes going on so they need to be included on any thing to deal with the implementation.
+
+### High Influence, Low Interest (Keep Satisfied)
+Senior Management, Employees, HR Department, Regulatory Bodies
+Frequent updates on progress of implementations, Provide information on progress or decline of better performance, as well as allow them to run through satisfaction surveys to assure positive change.
+
+### Low Influence, High Interest (Keep Informed)
+Employees, Community/Society, Customers/Clients, Middle Management
+As we move along with our solution we want to make sure we are being completely transparent with everyone being affected. We want to keep them informed with the changes as well as give them feedback on their performance.
+
+### Low Influence, Low Interest (Monitor)
+Employees, Senior Management
+We need to monitor employees as they work to ensure they are not cheating the new compensation system, as well as ensure our changes we make from surveys are working. On the senior management side we need to make sure they are satisfied as well as they oversee everything we do, as our job is to keep them satisfied with our work output and company culture.
+## Key Stakeholder Insights for Evidence Collection
+
+### Who to Interview/Survey
+Employees, from getting them to complete these job satisfaction surveys we will be able to gather evidence on what is causing the decline in motivation. As well as once we get our first survey we can begin to work on even more implementations to better our company even more, and furthermore continue to use surveys to measure the effect of our changes.
+### What Questions to Ask
+Employees
+• How does the structure of compensation system directly affect employee motivation?
+• What can be changed/implemented to improve your view of the workplace?
+Senior Management
+• What needs to be done moving further to ensure we are upholding company culture while going through these implementations?
+• Once we receive the first set of surveys, what ideas do you have to better improve motivation within our company?
+Middle Management
+• How do you plan on keeping the senior management satisfied, while ensuring you can still increase motivation of the employees below you?
+• Once we implement these compensation packages how are you going to monitor workers to ensure they are working ethically and productively?
+
+
+### How to Engage
+Employees
+• The compensation packages should be able to reach them, as well as the feeling of being valued, as the company is going through surveys to see what they need to be better.
+Senior management
+• Once we have gone through the first set of surveys and can make that change, as well as see the effect of performance packages. This should be able to reach them as they can see how it improves multiple parts of the job from every standpoint and allows them to know how employees feel with how they are treated.
+Middle Management
+• Middle management is the middle man and have to deal with dissatisfaction from employees as well as here it from their bosses. They may recieve a increase in workload but ultimately this will create a place where they are finding that more people around them are happy with how things are going at work.
+
+
