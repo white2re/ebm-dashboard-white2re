@@ -1,135 +1,41 @@
-# Scientific Evidence: Methods & Acquisition Strategy
-# Document your systematic approach to finding research evidence
+# Scientific Evidence: 
+**Logic Model:** Compensation → Motivation → Job Satisfaction
 
-## Research Question
-[employee motivation in workplace]
+### Research Conducted
+- **Database Used:** Consensus research database for evidence-based insights
+- **Keywords Applied:** "Compensation leads to job satisfaction with motivation as a mediator" 
+- **Results Found:** Two studies validating compensation → motivation → job satisfaction pathways
+- **External Validation:** GSS (General Social Survey) used for benchmarking organizational data against national standards
 
+## Sources Consulted
 
+### Research Evidence Gathered
+- **Ghana Commercial Bank Study (N=60):** Banking industry research validating compensation → motivation → job satisfaction relationships, showing human resources practices positively correlate with motivation, compensation, and job satisfaction while negatively correlating with turnover
+- **PT. Pelita Satria Perkasa Study (N=120):** Indonesian retail company research demonstrating compensation significantly impacts work motivation, and work motivation mediates the effect of compensation on job satisfaction, supporting the mediation pathway in our logic model
+- **GSS National Dataset:** Used for validating organizational compensation-satisfaction correlations against nationally representative data
 
-**Primary Research Question:** [What does research tell us about this problem?]
-What is the biggest factor that decreases employee motivation?
-How does negative social interactions at work affect motivation?
-What is the relationship between high workload, negative work environments, and reduced motivation? {consensus}
-How do compensation systems (monetary and non-monetary rewards) influence employee motivation and job satisfaction? {consensus}
+### Potential Sources That Could Be Consulted
+- HR Directors with compensation design experience in mid-size to large organizations
+- Compensation & Benefits Managers in service industries with measurable performance outcomes  
+- Organizational Development Consultants with cross-industry perspective on employee motivation factors
+- Harvard Business Review articles on compensation strategy and employee engagement
+- SHRM Research Reports on pay equity and compensation effectiveness
+- McKinsey/Deloitte Reports on employee engagement and compensation systems
 
-**Secondary Research Question:** [What does research tell us about potential solutions?]
+## Selection Criteria for Evidence Gathered
 
+### Criteria Applied to Consensus Research
+- **Sample Size:** Studies with statistically meaningful sample sizes (N=60-120) 
+- **Logic Model Alignment:** Research examining compensation → motivation → job satisfaction pathways
+- **Cross-Industry Validation:** Banking and retail sectors providing diverse organizational contexts
+- **Statistical Methods:** Studies reporting correlation and mediation analysis similar to organizational data
 
-## Search Strategy
+### Potential Selection Criteria for Future Practitioner Outreach
+- Years of experience: 5-20 years in compensation design, HR management, or employee engagement
+- Implementation experience with compensation systems designed to improve motivation/satisfaction
+- Statistical familiarity to validate organizational findings like r=0.58 compensation-satisfaction correlation
+- Cross-industry experience with compensation → motivation → job satisfaction relationships
 
-### Databases Searched
-- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
-- [ ] **Business Source Premier** [For business and management research] 
-- [ ] **Google Scholar** [For multidisciplinary academic content]
-- [ ] **JSTOR** [For established academic journals]
-- [ ] **SSRN** [For business and social science working papers]
-- [ ] **Other:** [List additional relevant databases]
-
-### Keywords and Search Terms
-
-#### Primary Keywords
-[List main terms related to your problem/solution]
-Burnout, Amotivation, Desmotivation, Intrinsic and Extrinsic Motivation	
-
-#### Secondary Keywords  
-[List related terms and synonyms]
-
-#### Boolean Search Combinations
-[Document your search string combinations]
-- Example: ("employee retention" OR "staff turnover") AND ("small business" OR SME)
-
-### Search Filters Applied
-- **Date Range:** [Years included in search]
-- **Language:** [Languages included]
-- **Study Types:** [Research designs included/excluded]
-- **Geographic Scope:** [Regions/countries of interest]
-- **Industry Focus:** [Relevant sectors]
-
-## Selection Criteria
-
-### Inclusion Criteria
-[What studies WILL you include?]
-- Study design requirements
-- Population/context requirements
-- Outcome measures
-- Quality thresholds
-
-### Exclusion Criteria  
-[What studies will you EXCLUDE?]
-- Study limitations
-- Context mismatches
-- Quality concerns
-- Accessibility issues
-
-## Search Results Summary
-
-### Initial Search Results
-- **Total Articles Found:** [Number across all databases]
-- **After Removing Duplicates:** [Number of unique articles]
-- **After Title/Abstract Screening:** [Number meeting basic criteria]
-- **Selected for Full Review:** [Final number for detailed analysis]
-
-### Search Documentation
-[Keep a record of what you searched and when]
-
-**Date:** [Search date]
-**Database:** [Which database]
-**Search Terms:** [Exact search string used]
-**Results:** [Number of results]
-**Notes:** [Any observations about the search]
-
-## Quality Assessment Approach
-[How will you evaluate study quality?]
-
-### Research Design Hierarchy
-1. **Systematic Reviews/Meta-analyses** [Highest quality]
-2. **Randomized Controlled Trials** [High quality]
-3. **Quasi-experimental Studies** [Medium-high quality]
-4. **Cohort Studies** [Medium quality]
-5. **Cross-sectional Studies** [Medium-low quality]
-6. **Case Studies** [Lower quality but valuable for context]
-
-### Quality Criteria Checklist
-- [ ] Clear research question
-- [ ] Appropriate methodology
-- [ ] Adequate sample size
-- [ ] Valid measurement tools
-- [ ] Appropriate statistical analysis
-- [ ] Clear reporting of results
-- [ ] Discussion of limitations
-- [ ] Peer-reviewed publication
-
-## Documentation Process
-[How you'll organize and track your findings]
-
-### Reference Management
-[How you'll keep track of citations]
-
-### Evidence Extraction Form
-[What information you'll record for each study]
-- Citation details
-- Study design and methodology
-- Sample characteristics
-- Key findings
-- Relevance to your problem/solution
-- Quality assessment
-
-## Challenges and Limitations
-[Document any issues with your search process]
-
-### Search Limitations
-[What couldn't you access or find?]
-
-### Resource Constraints
-[Time, database access, or other limitations]
-
-### Topic-Specific Challenges
-[Issues unique to your research area]
-
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies
+## AI Assistance in Evidence Gathering
+- **Search Term Generation:** AI assistance used to help develop and refine search terms for Consensus database queries based on logic model components
+- **Potential Source Identification:** AI helped identify relevant types of practitioners, publications, and research sources that could provide validation for compensation → motivation → job satisfaction relationships

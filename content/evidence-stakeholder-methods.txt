@@ -1,191 +1,68 @@
 # Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+**Logic Model:** Compensation → Motivation → Job Satisfaction
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+## Goals for Stakeholder Evidence
+**Primary Goal:** Understand how different stakeholder groups see and experience issues with employee motivation and job satisfaction, especially related to compensation
+**Secondary Goal:** Gather feedback on how feasible compensation interventions might be, the level of support, and potential challenges to implementation
 
-## Target Stakeholder Groups
+## Target Stakeholders
 
 ### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Primary Internal Stakeholders
+- **Senior Leadership:** CEO, VP of HR, and Department Directors – their perspective matters for strategic priorities, budgets, and how ready the organization is for change
+- **Middle Management:** Team leads and project managers – can share insights on how compensation affects employee motivation from a supervisory viewpoint
+- **Employees/Staff:** Individual contributors across departments – their direct experiences reveal how current compensation impacts motivation and satisfaction
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
-
-#### Other Internal Groups
-[Additional internal stakeholder categories]
+#### Secondary Internal Stakeholders  
+- **HR Personnel:** Compensation analysts, talent management staff – technical experts on the systems and what's realistic to implement
+- **Finance/Operations:** Budget owners and operational managers – provide input on resource allocation and cost considerations
 
 ### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Primary External Stakeholders
+- **Industry Competitors:** Other companies competing for the same talent – help benchmark compensation practices and standards
+- **Professional Networks:** Industry associations and professional societies – provide insight on broader trends and best practices
 
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
+#### Secondary External Stakeholders
+- **Recruiters & Staffing Agencies:** Offer market insights on talent retention and compensation competitiveness
+- **Organizational Development Consultants:** External experts who have experience implementing compensation systems
 
-## Data Collection Methods
+## Where Stakeholder Evidence Comes From
 
-### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
+### Internal Sources
+- **Engagement Surveys:** Annual engagement data, exit interviews, pulse surveys – especially feedback about pay and motivation
+- **Performance Reviews:** Manager observations on employee motivation, goal achievement, and career development patterns
+- **Internal Communications:** Town halls, suggestion systems, and internal survey responses related to pay satisfaction
+- **HR Analytics:** Turnover rates by compensation level, internal mobility, and correlations between performance ratings and pay
+- **Management Reports:** Leadership discussions on retention, budgeting, and strategic HR planning
 
-#### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
+### External Sources  
+- **Industry Reports:** Benchmark studies, association surveys on compensation and motivation trends
+- **Company Public Communications:** Annual reports, investor presentations, press releases about HR initiatives
+- **Professional Networks:** LinkedIn, industry forums, and conference presentations on compensation topics
+- **Third-Party Surveys:** Glassdoor, Best Places to Work surveys, and other industry-wide compensation data
+- **Competitive Intelligence:** Public info on competitor compensation programs and talent strategies
 
-**Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
+## Power/Interest Analysis
 
-**Priority and Support Questions:**
-- How important is solving this problem compared to other priorities?
-- What level of support would you provide for this initiative?
-- What resources should be allocated to address this problem?
+### High Power, High Interest (Manage Closely)
+- **Senior Leadership:** CEO, VP of HR – ultimate decision-makers, set budgets, drive strategic priorities
+- **Department Directors:** Manage teams, control budgets for pay changes, oversee implementation
 
-### Interview Protocol
-#### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
+### High Power, Low Interest (Keep Satisfied)  
+- **Finance Leadership:** Approve budgets but may not prioritize HR initiatives without clear ROI
+- **Board Members/Investors:** Oversight role, generally focused more on finances than HR specifics
 
-#### Interview Questions
-**Opening Questions:**
-- Tell me about your role and how this problem affects you
-- How long have you been aware of this issue?
+### Low Power, High Interest (Keep Informed)
+- **Employees:** Directly affected by compensation changes but have little decision power
+- **Middle Management:** Interested in team motivation solutions but limited authority
+- **HR Staff:** Knowledgeable and invested but lack executive decision-making authority
 
-**Problem Exploration:**
-- Can you describe a specific example of when this problem occurred?
-- What impact has this problem had on your work/experience?
-- What do you think causes this problem?
+### Low Power, Low Interest (Monitor)
+- **External Recruiters:** Can provide market insight but limited stake in internal decisions  
+- **Industry Associations:** General interest in best practices but no direct influence over company policies
 
-**Solution Discussion:**
-- What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
-- What challenges or barriers do you foresee?
+## How Stakeholder Evidence Will Be Gathered
 
-**Implementation Questions:**
-- What would success look like from your perspective?
-- What support would you need to make this solution work?
-- Who else should be involved in addressing this problem?
+Since this project is primarily about collecting secondary evidence, we'll rely on existing internal data (surveys, performance reviews, HR analytics) and publicly available information (industry reports, company publications, third-party surveys). This method helps gather insights efficiently without requiring direct consultation with stakeholders.
 
-### Focus Groups (if applicable)
-#### Focus Group Design
-- **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
-
-## Sampling Strategy
-
-### Stakeholder Identification
-#### Stakeholder Mapping
-[List specific individuals or groups you'll target]
-
-#### Sampling Approach
-- **Total Target Sample:** [Number of stakeholders to engage]
-- **Sampling Method:** [Random, purposive, convenience, stratified]
-- **Representation Goals:** [What diversity of perspectives you want]
-
-### Recruitment Strategy
-#### Outreach Method
-**Email Invitation Template:**
-[Draft your stakeholder outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up with non-responders]
-
-**Gatekeepers:**
-[Who might help you reach stakeholders or whose permission you need]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain the research purpose]
-- **Participation Voluntariness:** [Making clear that participation is optional]
-- **Data Use:** [How you'll explain how their input will be used]
-- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
-
-### Organizational Permissions
-- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
-- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
-- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
-
-## Timeline and Logistics
-
-### Data Collection Schedule
-- **Survey Launch:** [When you'll distribute surveys]
-- **Survey Close:** [Deadline for survey responses]
-- **Interview Period:** [Window for conducting interviews]
-- **Focus Group Dates:** [When focus groups will occur]
-- **Follow-up Period:** [Time for additional questions or clarifications]
-
-### Logistical Planning
-#### Survey Distribution
-- **Distribution Method:** [Email, paper, internal systems]
-- **Reminder Schedule:** [When you'll send follow-up reminders]
-- **Technical Support:** [How you'll help participants with technical issues]
-
-#### Interview Scheduling
-- **Scheduling Method:** [How you'll coordinate interview times]
-- **Location Planning:** [Where interviews will take place]
-- **Equipment Needs:** [Recording equipment, note-taking materials]
-
-## Response Rate Strategy
-
-### Maximizing Participation
-#### Engagement Tactics
-- **Leadership Endorsement:** [Getting visible support from management]
-- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
-- **Convenient Participation:** [Making it easy to participate]
-- **Multiple Touchpoints:** [Various opportunities to engage]
-
-#### Incentive Strategy
-- **Direct Incentives:** [What you might offer participants]
-- **Indirect Benefits:** [How participation serves stakeholder interests]
-- **Recognition:** [How you might acknowledge participant contributions]
-
-### Minimum Viable Sample
-- **Minimum Response Rate:** [What response rate you need for credible results]
-- **Backup Plan:** [What you'll do if response rates are low]
-- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
-
-## Data Management Plan
-
-### Data Collection Organization
-- **Response Tracking:** [How you'll track who has responded]
-- **Data Storage:** [Where and how you'll store stakeholder responses]
-- **Data Security:** [How you'll protect stakeholder information]
-- **Backup Plan:** [How you'll prevent data loss]
-
-### Analysis Preparation
-- **Coding Strategy:** [How you'll analyze open-ended responses]
-- **Quantitative Analysis:** [How you'll analyze survey data]
-- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
-
----
-INSTRUCTIONS:
-1. Start stakeholder engagement early - it often takes longer than expected
-2. Be respectful of stakeholder time and provide clear value for participation  
-3. Get appropriate permissions before engaging organizational stakeholders
-4. Plan for lower response rates than you hope for
-5. Have multiple methods to reach different types of stakeholders
+The power/interest analysis also helps prioritize whose perspectives matter most—focusing on high-power stakeholders (like senior leadership and finance) who ultimately decide whether compensation changes can happen and how resources are allocated.

@@ -1,214 +1,66 @@
 # Stakeholder Evidence: Quality Assessment
-# Evaluate the credibility and usefulness of stakeholder evidence collected
+**Purpose:** Evaluate how credible and useful the stakeholder evidence we collected is
 
-## Overall Evidence Quality Assessment
+## Sample Representativeness
 
-### Data Collection Quality
+### Data Overview
+- **Target Population:** ~150 relevant stakeholders (leadership, management, employees, HR, finance)
+- **Sample Size:** ~45 perspectives captured from secondary sources
+- **Coverage Estimate:** ~30% of stakeholders, based on available documents
+- **Representativeness:** Medium – good coverage of key decision-makers, but employee voices are underrepresented
 
-#### Sample Representativeness
-- **Target Population:** [Total number of relevant stakeholders in organization/system]
-- **Sample Size:** [Number who actually participated]
-- **Response Rate:** [Percentage of those invited who participated]
-- **Representativeness Score:** [High/Medium/Low] - [Explain why]
+### Stakeholder Group Coverage
+- **Management:** 40% (target 30%) – slightly overrepresented due to available documentation
+- **Employees:** 25% (target 40%) – underrepresented, limited survey access
+- **HR/Finance:** 25% (target 20%) – good coverage from analytics and reports
+- **External:** 10% (target 10%) – adequate industry benchmark data
 
-**Stakeholder Group Coverage:**
-- Management: [Percentage of total sample] - Target was [percentage] 
-- Employees: [Percentage of total sample] - Target was [percentage]
-- Customers: [Percentage of total sample] - Target was [percentage] 
-- Partners: [Percentage of total sample] - Target was [percentage]
+### Key Limitations
+- Convenience sampling from existing documents favored management perspectives
+- Employee feedback mostly comes from formal surveys, missing "silent" or informal voices
+- Limited input from high performers and minimal competitor insights
 
-#### Response Quality Indicators
+## Bias Assessment (Brief)
 
-**Survey Data Quality:**
-- Complete responses: [Percentage] of total responses
-- Partial responses: [Percentage] of total responses  
-- Average completion time: [Minutes] (Expected: [range])
-- Skip rate per question: [Average percentage]
+**Overall Bias Risk:** Medium
 
-**Interview Data Quality:**
-- Average interview length: [Minutes] (Target: [range])
-- Depth of responses: [High/Medium/Low] - [Explain assessment]
-- Consistency across interviews: [High/Medium/Low] - [Explain assessment]
+Secondary sources overrepresent management; surveys may under-report dissatisfaction due to social desirability or job security concerns. Historical data may not fully reflect current sentiment.
 
-### Bias Assessment
+## Power & Impact Assessment
 
-#### Selection Bias
-**Risk Level:** [High/Medium/Low]
+### Who Can Influence or Block Decisions
+- **CEO & VP of HR:** Ultimate decision-makers; support is crucial, lack of it can block change
+- **Finance Leadership:** Controls funding, sets ROI expectations, can halt changes if criteria aren't met
+- **Department Directors:** Manage daily implementation and resources; influence middle managers
+- **Middle Management:** Shape employee experience and adoption during rollout
+- **HR Personnel:** Handle system setup, policy design, and consistency
+- **Employees:** Limited direct authority, but collective response affects leadership perception
 
-**Self-Selection Issues:**
-- Voluntary participation rate: [Percentage]
-- Characteristics of non-respondents: [What you know about who didn't participate]
-- Potential bias direction: [How non-participation might skew results]
+### Who Benefits or Could Be Harmed
+**Primary Beneficiaries:** Employees (fairer, transparent pay with performance links), Organization (lower turnover, higher productivity, better recruitment)
 
-**Sampling Issues:**
-- Convenience sampling used: [Yes/No] - [If yes, explain limitations]
-- Geographic bias: [Any location-based skewing]
-- Departmental bias: [Any unit/function over/under-representation]
+**Potential Harm:** Current high performers may lose advantages; HR and management staff face extra workload
 
-#### Response Bias
+**Ethical Considerations:** Transparency can shift power from managers controlling pay; safeguards needed for fair evaluations
 
-**Social Desirability Bias:**
-- Risk assessment: [High/Medium/Low]
-- Evidence of bias: [What suggests people gave "acceptable" rather than honest answers]
-- Mitigation used: [How you tried to encourage honest responses]
+## Evidence Credibility & Confidence
 
-**Acquiescence Bias:**
-- Pattern of agreement: [Evidence of people just agreeing with statements]
-- Question design assessment: [How well questions avoided leading responses]
+### Overall Confidence
+**Level:** Medium-Low
 
-**Recency/Availability Bias:**
-- Recent events influence: [Whether recent events may have skewed responses]
-- Typical vs. exceptional circumstances: [Whether timing affected normal perspectives]
+**Reasoning:** Secondary evidence gives good directional insights but lacks depth from direct stakeholder input; management perspectives are overrepresented and employee dissatisfaction may be underreported
 
-#### Confirmation Bias (Your own)
-- Question design neutrality: [How well you avoided leading questions]
-- Data interpretation objectivity: [How you ensured unbiased analysis]
-- Disconfirming evidence attention: [How well you looked for contradictory findings]
+### Strengths
+- Strong coverage of decision-makers (CEO, VP HR, Finance)
+- Clear understanding of who can enable or block implementation
+- Consistent confirmation that compensation-motivation link is a real issue
 
-### Response Consistency Analysis
+### Limitations  
+- Limited current employee feedback; silent dissatisfaction may be missing
+- Secondary sources may not reflect recent changes in stakeholder attitudes
+- Unclear how stakeholders would react to specific changes vs. general support
 
-#### Within-Person Consistency
-**Internal Consistency Checks:**
-- Contradictory responses identified: [Number/percentage of respondents with inconsistent answers]
-- Pattern analysis: [Common types of inconsistencies found]
-- Reliability assessment: [Overall confidence in individual responses]
-
-#### Across-Person Consistency  
-**Group Agreement Levels:**
-- High consensus topics: [Issues where >80% of stakeholders agreed]
-- Moderate consensus topics: [Issues where 60-80% agreed]
-- Low consensus topics: [Issues where <60% agreed]
-- Polarized topics: [Issues with clear opposing camps]
-
-#### Method Consistency
-**Survey vs. Interview Alignment:**
-- Consistent findings: [Topics where surveys and interviews agreed]
-- Inconsistent findings: [Topics where methods gave different results]
-- Explanation for differences: [Why methods might have yielded different results]
-
-### Credibility Assessment by Stakeholder Group
-
-#### Management/Leadership Input
-**Credibility Score:** [High/Medium/Low]
-
-**Strengths:**
-- Strategic perspective quality: [Assessment of leadership's big-picture view]
-- Resource insight accuracy: [How well leadership understands resource implications]
-- Implementation realism: [How realistic leadership's assessments seem]
-
-**Limitations:**
-- Distance from problem: [How removed leadership is from day-to-day problem experience]
-- Optimism bias: [Tendency to underestimate challenges]
-- Political considerations: [How political factors may influence responses]
-
-#### Employee/Staff Input  
-**Credibility Score:** [High/Medium/Low]
-
-**Strengths:**
-- Direct experience authenticity: [Quality of first-hand problem experience]
-- Implementation practicality: [Understanding of operational realities]
-- Barrier identification accuracy: [Ability to spot real implementation obstacles]
-
-**Limitations:**
-- Limited strategic view: [Gaps in understanding broader implications]
-- Change resistance: [Bias toward status quo]
-- Department-specific perspective: [Views may not generalize across organization]
-
-#### Customer/Client Input
-**Credibility Score:** [High/Medium/Low]
-
-**Strengths:** 
-- Outcome focus clarity: [Clear understanding of desired results]
-- External perspective value: [Insights from outside organizational dynamics]
-- Impact assessment accuracy: [Good understanding of how problem affects them]
-
-**Limitations:**
-- Internal process ignorance: [Lack of understanding of organizational constraints]
-- Self-interest bias: [Tendency to prioritize own needs over organizational needs]
-- Limited implementation insight: [Little understanding of how solutions actually get implemented]
-
-#### Partner/Supplier Input
-**Credibility Score:** [High/Medium/Low]
-
-**Strengths:**
-- Comparative perspective: [Experience with how other organizations handle similar issues]
-- Collaboration insight: [Understanding of what makes partnerships work]
-- External impact awareness: [Knowledge of broader ecosystem effects]
-
-**Limitations:**
-- Conflicting interests: [Their business interests may conflict with optimal solution]
-- Partial information: [Limited visibility into internal organizational dynamics]
-- Relationship bias: [Tendency to maintain positive relationship rather than give hard feedback]
-
-### Evidence Triangulation Assessment
-
-#### Cross-Method Validation
-**Survey-Interview Convergence:**
-- Converging findings: [Where quantitative and qualitative data align]
-- Diverging findings: [Where different methods suggest different conclusions]  
-- Explanation quality: [How well you can explain any divergences]
-
-#### Cross-Group Validation  
-**Stakeholder Agreement Patterns:**
-- Universal agreement: [Issues where all stakeholder groups align]
-- Predictable disagreement: [Where disagreement follows expected lines (e.g., management vs. staff)]
-- Surprising disagreement: [Where expected allies disagree or expected opponents agree]
-
-### Completeness Assessment
-
-#### Topic Coverage
-- **Comprehensive topics:** [Areas where you got thorough stakeholder input]
-- **Partially covered topics:** [Areas where stakeholder input was limited]
-- **Missing topics:** [Areas where you didn't get stakeholder perspectives]
-
-#### Stakeholder Voice Representation
-- **Well-represented voices:** [Which stakeholder perspectives came through clearly]
-- **Underrepresented voices:** [Which stakeholder perspectives were limited]
-- **Missing voices:** [Which important stakeholders you couldn't reach]
-
-### Utility Assessment for Decision-Making
-
-#### Actionable Insights Quality
-**High-Value Insights:** [Stakeholder input that clearly informs decisions]
-- Specific implementation guidance: [Concrete suggestions from stakeholders]
-- Barrier identification: [Clear obstacles identified by stakeholders]  
-- Success factor definition: [What stakeholders say is needed for success]
-
-**Medium-Value Insights:** [Stakeholder input that provides useful context]
-- General support levels: [Overall stakeholder sentiment toward solution]
-- Priority rankings: [How stakeholders prioritize different aspects]
-- Resource expectations: [What stakeholders think implementation will require]
-
-**Low-Value Insights:** [Stakeholder input that confirms obvious points]
-- Predictable responses: [Feedback that matched expectations exactly]
-- Vague suggestions: [Non-specific recommendations]
-- Uninformed opinions: [Views from stakeholders who lack relevant knowledge]
-
-#### Decision Support Capability
-**Problem Definition Support:** [How well stakeholder evidence helps define the problem]
-**Solution Design Support:** [How well stakeholder evidence informs solution design]
-**Implementation Planning Support:** [How well stakeholder evidence guides implementation approach]
-**Success Criteria Support:** [How well stakeholder evidence defines what success looks like]
-
-## Overall Evidence Quality Rating
-
-### Strengths of Stakeholder Evidence
-[List the 3-5 strongest aspects of the stakeholder evidence you collected]
-
-### Limitations of Stakeholder Evidence  
-[List the 3-5 most significant limitations in your stakeholder evidence]
-
-### Confidence Level for Decision-Making
-**Overall Confidence:** [High/Medium/Low]
-**Justification:** [Explain why you have this level of confidence in using this evidence for decisions]
-
-### Recommendations for Evidence Improvement
-[What you would do differently or additionally to strengthen the stakeholder evidence]
+### Decision-Making Impact
+Evidence is good for broad, directional decisions (e.g., improving compensation systems). Not enough for detailed implementation planning — direct stakeholder validation would be needed before committing resources.
 
 ---
-INSTRUCTIONS:
-1. Be honest about limitations - perfect stakeholder evidence is rare
-2. Consider multiple types of bias that could affect your findings
-3. Assess whether different stakeholder groups' perspectives align or conflict
-4. Evaluate how actionable the stakeholder insights actually are
-5. Note any important stakeholder voices that are missing
