@@ -16,7 +16,7 @@
 **Reason for Selection:** Validates compensation → motivation → satisfaction pathway relevant to organizational logic model
 
 ### Effect Size Reporting Limitation
-**Important Note:** While the selected studies provide strong validation of the compensation → motivation → job satisfaction relationships, they report findings qualitatively ("positive correlations," "significant mediation effects") rather than providing specific numeric effect sizes (r values, β coefficients, or confidence intervals). This limits precise quantitative comparison with organizational data correlations (r=0.58, r=0.42, r=0.71) but does not diminish the studies' value for validating the framework and relationships between compensation and job satisfaciton
+**Important Note:** While the selected studies provide strong validation of the compensation → motivation → job satisfaction relationships, they report findings qualitatively ("positive correlations," "significant mediation effects") rather than providing specific numeric effect sizes (r values, β coefficients, or confidence intervals). This limits precise quantitative comparison with organizational data correlations (r=0.58, r=0.42, r=0.71) but does not diminish the studies' value for validating the framework and relationships between compensation and job satisfaction
 
 ---
 

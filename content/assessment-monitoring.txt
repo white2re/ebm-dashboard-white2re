@@ -1,309 +1,94 @@
 # Assessment: Monitoring & Evaluation Plan
-# Systematic approach to measuring implementation success and organizational impact
-
-## Evaluation Framework Overview
-
-### Evaluation Questions
-**Primary Evaluation Question:** [Main question about whether your solution worked]
-
-**Secondary Evaluation Questions:**
-1. [Second most important question about effectiveness]
-2. [Third most important question about implementation process]
-3. [Fourth question about stakeholder satisfaction]
-4. [Fifth question about unintended consequences]
-
-### Evaluation Approach
-**Evaluation Type:** [Formative (during implementation) and/or Summative (after completion)]
-**Evaluation Design:** [Before-and-after comparison, with-and-without comparison, case study, etc.]
-**Mixed Methods Approach:** [How you'll combine quantitative and qualitative data]
-
-## Key Performance Indicators (KPIs)
-
-### Outcome KPIs (What Changed)
-
-#### Primary Outcome KPI
-**KPI:** [Most important measure of whether your solution worked]
-- **Current Baseline:** [Where you're starting from]
-- **Target:** [What you want to achieve]
-- **Timeline:** [When you expect to see this change]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll gather this data]
-- **Measurement Frequency:** [How often you'll measure this]
-
-#### Secondary Outcome KPIs
-**KPI 1:** [Second most important outcome measure]
-- **Current Baseline:** [Starting point]
-- **Target:** [Goal]
-- **Timeline:** [Expected timeframe]
-- **Data Source & Method:** [How you'll measure]
-
-**KPI 2:** [Third most important outcome measure]
-[Follow same structure]
-
-**KPI 3:** [Fourth most important outcome measure]
-[Follow same structure]
-
-### Process KPIs (How Implementation Went)
-
-#### Implementation Quality KPIs
-**KPI:** [Measure of how well you implemented the solution]
-- **Target:** [What good implementation looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-- **Measurement Frequency:** [How often you'll measure]
-
-**KPI:** [Second measure of implementation quality]
-[Follow same structure]
-
-#### Stakeholder Engagement KPIs
-**KPI:** [Measure of stakeholder participation/satisfaction]
-- **Target:** [What good stakeholder engagement looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-
-#### Resource Utilization KPIs
-**KPI:** [Measure of whether you used resources efficiently]
-- **Target:** [What efficient resource use looks like]
-- **Data Source:** [Where this data comes from]
-- **Collection Method:** [How you'll track this]
-
-### Impact KPIs (Broader Organizational Effects)
-
-#### Organizational Performance KPIs
-**KPI:** [Measure of broader organizational improvement]
-- **Current Baseline:** [Starting point]
-- **Target:** [Expected improvement]
-- **Timeline:** [When you expect to see this]
-- **Data Source & Method:** [How you'll measure]
-
-#### Cultural/Climate KPIs
-**KPI:** [Measure of organizational culture/climate changes]
-[Follow same structure]
-
-## Data Collection Plan
-
-### Quantitative Data Collection
-
-#### Organizational Data
-**Data Type 1:** [First type of organizational data you'll collect]
-- **Source:** [Where this data comes from]
-- **Collection Frequency:** [How often you'll collect it]
-- **Collection Method:** [How you'll extract/gather it]
-- **Analysis Plan:** [How you'll analyze this data]
-
-**Data Type 2:** [Second type of organizational data]
-[Follow same structure]
-
-#### Survey Data
-**Survey 1: Stakeholder Satisfaction Survey**
-- **Target Population:** [Who will take this survey]
-- **Sample Size Goal:** [How many responses you want]
-- **Timing:** [When you'll conduct survey - before, during, after implementation]
-- **Key Questions:** [Most important questions on the survey]
-- **Administration Method:** [How you'll distribute and collect the survey]
-
-**Survey 2:** [Second survey, if conducting multiple]
-[Follow same structure]
-
-### Qualitative Data Collection
-
-#### Interview Data
-**Interview Type 1: Implementation Experience Interviews**
-- **Target Participants:** [Who you'll interview]
-- **Number of Interviews:** [How many interviews you plan]
-- **Timing:** [When you'll conduct interviews]
-- **Key Topics:** [Main questions you'll explore]
-- **Interview Method:** [In-person, phone, video, etc.]
-
-**Interview Type 2:** [Second type of interviews]
-[Follow same structure]
-
-#### Focus Group Data
-**Focus Group:** [Topic/purpose of focus group]
-- **Participants:** [Who will participate]
-- **Timing:** [When you'll conduct focus group]
-- **Key Questions:** [Main topics you'll explore]
-
-#### Observation Data
-**What You'll Observe:** [Behaviors, processes, interactions you'll observe]
-- **Observation Settings:** [Where you'll observe]
-- **Observation Schedule:** [When and how often you'll observe]
-- **Documentation Method:** [How you'll record observations]
-
-### Document Review
-**Document Type 1:** [First type of documents you'll review]
-- **Purpose:** [What these documents will tell you]
-- **Collection Method:** [How you'll access these documents]
-
-**Document Type 2:** [Second type of documents]
-[Follow same structure]
-
-## Evaluation Timeline
-
-### Pre-Implementation Data Collection [Baseline Period]
-**Timeline:** [When you'll collect baseline data]
-
-**Activities:**
-- [ ] [First baseline data collection activity]
-- [ ] [Second baseline data collection activity]
-- [ ] [Third baseline data collection activity]
-
-### During Implementation Monitoring
-**Timeline:** [When you'll collect monitoring data during implementation]
-
-**Month 1 Activities:**
-- [ ] [First month monitoring activities]
-
-**Month 2 Activities:**
-- [ ] [Second month monitoring activities]
-
-**Quarterly Activities:**
-- [ ] [Quarterly monitoring activities]
-
-### Post-Implementation Evaluation
-**Timeline:** [When you'll conduct final evaluation]
-
-**Immediate Post-Implementation (0-1 month after):**
-- [ ] [Immediate follow-up data collection]
-
-**Short-term Follow-up (3-6 months after):**
-- [ ] [Short-term follow-up activities]
-
-**Long-term Follow-up (12+ months after):**
-- [ ] [Long-term follow-up activities]
-
-## Data Analysis Plan
-
-### Quantitative Analysis
-
-#### Outcome Analysis
-**Primary Outcome Analysis:** [How you'll analyze your main success measure]
-- **Statistical Approach:** [What statistical methods you'll use]
-- **Comparison Strategy:** [Before vs. after, treatment vs. control, etc.]
-- **Significance Criteria:** [What counts as meaningful change]
-
-**Secondary Outcome Analysis:** [How you'll analyze other outcome measures]
-[Follow same structure]
-
-#### Trend Analysis
-**How You'll Examine Trends Over Time:** [Method for analyzing changes over time]
-**Patterns You'll Look For:** [What kinds of trends would be meaningful]
-
-### Qualitative Analysis
-
-#### Thematic Analysis
-**Interview Analysis Approach:** [How you'll analyze interview data]
-**Coding Strategy:** [How you'll organize and categorize qualitative data]
-**Theme Identification:** [How you'll identify key themes]
-
-#### Content Analysis
-**Document Analysis Approach:** [How you'll analyze documents]
-**Observation Analysis:** [How you'll analyze observational data]
-
-### Mixed Methods Integration
-**How You'll Combine Quantitative and Qualitative Findings:** [Strategy for integrating different types of data]
-**Triangulation Approach:** [How you'll use multiple data sources to validate findings]
-
-## Success Criteria and Interpretation
-
-### Success Thresholds
-
-#### Must-Achieve Criteria (Implementation considered successful only if these are met)
-**Criterion 1:** [First essential success criterion]
-- **Measurement:** [How you'll measure this]
-- **Threshold:** [Specific level that must be achieved]
-
-**Criterion 2:** [Second essential success criterion]
-[Follow same structure]
-
-#### Should-Achieve Criteria (Important for full success but not make-or-break)
-**Criterion 1:** [First important success criterion]
-- **Measurement:** [How you'll measure this]
-- **Target:** [Desired level of achievement]
-
-**Criterion 2:** [Second important success criterion]
-[Follow same structure]
-
-#### Could-Achieve Criteria (Nice-to-have outcomes)
-**Criterion 1:** [First nice-to-have success criterion]
-[Follow same structure]
-
-### Interpretation Framework
-
-#### Strong Success Indicators
-[What combination of results would indicate strong success]
-
-#### Moderate Success Indicators
-[What combination of results would indicate moderate success]
-
-#### Weak Success or Failure Indicators
-[What combination of results would indicate the solution didn't work well]
-
-#### Unintended Consequences Assessment
-**Positive Unintended Consequences:** [Good things that might happen that you didn't plan for]
-**Negative Unintended Consequences:** [Problems that might arise that you need to watch for]
-**Monitoring Strategy:** [How you'll detect unintended consequences]
-
-## Stakeholder Feedback Integration
-
-### Feedback Collection Strategy
-
-#### Formal Feedback Mechanisms
-**Mechanism 1:** [First formal way stakeholders can provide feedback]
-- **Frequency:** [How often this feedback is collected]
-- **Participants:** [Who provides this feedback]
-- **Process:** [How feedback is collected and processed]
-
-**Mechanism 2:** [Second formal feedback mechanism]
-[Follow same structure]
-
-#### Informal Feedback Mechanisms  
-**Mechanism:** [How you'll capture informal feedback]
-**Documentation:** [How you'll record and use informal feedback]
-
-### Feedback Integration Process
-**How You'll Incorporate Stakeholder Feedback:** [Process for using feedback to improve implementation]
-**Decision-Making Process:** [How feedback will influence decisions about continuing/modifying the solution]
-
-## Evaluation Reporting
-
-### Reporting Schedule
-**Monthly Reports:** [What you'll include in monthly progress reports]
-**Quarterly Reports:** [What you'll include in quarterly reports]
-**Annual Report:** [What you'll include in comprehensive annual evaluation]
-
-### Report Audiences
-**Leadership Reports:** [What leaders need to know and when]
-**Staff Reports:** [What staff need to know about progress and results]
-**Stakeholder Reports:** [What other stakeholders need to know]
-**External Reports:** [Any external reporting requirements]
-
-### Report Content Framework
-**Executive Summary:** [Key points for busy executives]
-**Progress Against Goals:** [Status on achieving targets]
-**Key Findings:** [Most important discoveries from evaluation]
-**Lessons Learned:** [What you've learned about implementation]
-**Recommendations:** [What should be done next based on evaluation results]
-
-## Continuous Improvement Process
-
-### Learning Integration
-**How You'll Use Evaluation Results for Ongoing Improvement:** [Process for applying what you learn]
-**Adjustment Mechanisms:** [How you'll modify the solution based on evaluation findings]
-
-### Knowledge Management
-**Documentation Strategy:** [How you'll document lessons learned]
-**Knowledge Sharing:** [How you'll share learnings with others who might implement similar solutions]
-
-### Sustainability Assessment
-**Long-term Viability Evaluation:** [How you'll assess whether the solution can be sustained long-term]
-**Resource Requirement Assessment:** [How you'll evaluate ongoing resource needs]
-**Adaptation Planning:** [How you'll plan for future modifications based on changing conditions]
 
 ---
-INSTRUCTIONS:
-1. Design evaluation to answer the most important questions about your solution's effectiveness
-2. Include both quantitative metrics and qualitative insights
-3. Plan for both implementation monitoring and outcome evaluation
-4. Build in mechanisms for continuous improvement based on evaluation findings
-5. Consider different stakeholder information needs in your reporting plan
+
+## Logic Model (X → M → Y)
+
+### X (Intervention): What Will Be Implemented?
+The intervention has three main parts:
+1. **Transparent Performance-Compensation Matrix:** A clear system that shows employees how their performance ratings connect to their pay
+2. **Pay Equity Corrections:** Fix the 12% pay gaps we found between employees in similar roles
+3. **Performance-Linked Review System:** Regular reviews with trained managers who can give fair evaluations
+
+### M (Mechanism): How/Why Should It Work?
+The intervention should work by increasing employee motivation. When people can see a clear link between their work and their pay, they feel more motivated. Fair pay also reduces feelings of unfairness that hurt motivation. Regular reviews keep motivation up through ongoing feedback.
+
+The evidence supports this: studies from Indonesia (N=120) and Ghana (N=60) show motivation is the key link between compensation and satisfaction. Our organizational data (N=2,847) shows motivation and satisfaction are strongly correlated (r=0.71), and compensation explains 31% of motivation differences.
+
+### Y (Outcome): What Results Are Expected?
+Based on the evidence I reviewed, I expect:
+- **Job satisfaction** to increase by 15-25%
+- **Retention** to improve by 34% among employees who were previously dissatisfied with pay
+- **Performance** (measured by goal achievement) to improve by 28%
+
+I'll check that the pathway works by looking at whether motivation increases first (X→M), then whether those motivation increases lead to satisfaction improvements (M→Y)
+
+---
+
+## Evaluation Design
+
+### Evaluation Question
+Did the compensation transparency intervention increase job satisfaction through improved motivation?
+
+### Comparison Approach: Before-and-After Design
+I'll use a simple before-and-after comparison to see if the intervention worked:
+
+**Before (Baseline):**
+- Measure satisfaction, motivation, turnover, and performance using data already in our systems (N=2,847 employees)
+- The organization already collects this through HRIS, employee surveys, and performance systems
+
+**After (Post-Intervention):**
+- Measure the same things after the intervention is implemented
+- Compare the results to baseline to see what changed
+
+This design is practical because it uses existing data systems and doesn't disrupt normal operations.
+
+### Outcome Measures
+**Job Satisfaction (main outcome):**
+- Employee survey scores (1-10 scale)
+- Turnover rates
+- Exit interview reasons related to compensation
+
+**Motivation (mediator):**
+- Employee motivation/engagement scores (1-5 scale)
+- Performance ratings
+- Goal achievement rates
+
+### How I'll Rule Out Alternative Explanations
+Several other things could affect satisfaction besides my intervention:
+
+1. **Other HR programs** - I'll track what other initiatives are happening and compare satisfaction changes on compensation-specific questions vs. general satisfaction
+2. **Industry trends** - I'll compare our results to industry benchmarks (GSS data) to see if we're doing better than average
+3. **People quitting** - I'll track who leaves during implementation to make sure improving satisfaction isn't just because unhappy people already left
+4. **Survey bias** - I'll use actual behavior data (turnover, performance) not just survey responses to confirm real changes
+
+---
+
+## Implementation Fidelity
+
+### Content: What Must Be Implemented?
+
+**Component 1: Performance-Compensation Matrix**
+This needs to clearly show employees how their performance connects to their pay. It should be easy to understand, applied the same way across all departments, and cover all job types.
+
+**Component 2: Pay Equity Corrections**
+We need to fix the 12% pay gaps identified in the organizational data. This means doing an audit, making corrections based on objective criteria (tenure, performance, market rates), and communicating clearly about the changes.
+
+**Component 3: Review System & Manager Training**
+Managers need training on how to do fair evaluations and communicate about compensation. Then they need to actually use the new system in employee reviews.
+
+### Dose: How Much Is Needed?
+
+For the intervention to work, managers must complete the training and all three components (matrix, equity corrections, reviews) must be actually implemented and used—not just created but sitting unused.
+
+### Moderators: What Might Make It More or Less Effective?
+
+**Manager Quality:** Better managers who are good at fair evaluations and clear communication will probably get better results. If some managers struggle, they'll need extra support.
+
+**Finance Support:** If finance doesn't approve the full budget, we might have to do a scaled-down version which could weaken the impact.
+
+**Economic Context:** If there's a recession or high inflation (currently at 4.1% vs. our 3.2% raises), compensation might matter even more to employees.
+
+**Organizational Culture:** Organizations that are already open and transparent will adopt this easier than organizations with more secretive cultures.
+
+**Employee Tenure:** Long-tenured employees (4+ years) who have seen a 22% satisfaction drop might need additional career development support, not just compensation fixes.

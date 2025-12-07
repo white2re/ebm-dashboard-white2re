@@ -15,7 +15,7 @@ Likely
 
 ### Middle Management
 - **Interest in Problem:**
-It is hard to lead when your workers do not want to be led. As middle management if your dealing with workers lacking motivation, who show minimal effort and are not engaged, this can make your job of leading almost impossible. Senior management is going to be on them about fixing the issues within employees. They are going to be the ones dealing with some of the new issues that come up from increased competition which branches from new performance incentives. They will also be involved in going through the satisfaction surveys to see where they are going wrong. 
+It is hard to lead when your workers do not want to be led. As middle management if you're dealing with workers lacking motivation, who show minimal effort and are not engaged, this can make your job of leading almost impossible. Senior management is going to be on them about fixing the issues within employees. They are going to be the ones dealing with some of the new issues that come up from increased competition which branches from new performance incentives. They will also be involved in going through the satisfaction surveys to see where they are going wrong. 
 - **Interest in Solution:**
 They would gain a better workplace where their co-workers are excited to work, they would be able to see how they can improve their leadership as well. The negative side of this could be that they are going to have to take more time with redirecting the employees away from anything decreasing their performance affecting both sides pay.
 - **Influence Level:** [High/Medium/Low influence on implementation]
@@ -24,7 +24,7 @@ High
 Likely
 ### Employees/Staff
 - **Interest in Problem:**
-An employee thats not motivated will be more likely to put out work that is not their best. They will feel like they are a slave to the workplace. If they are not putting out their best work that can lead to layoffs, which is the worst case scenario for them to lose their job.
+An employee that's not motivated will be more likely to put out work that is not their best. They will feel like they are a slave to the workplace. If they are not putting out their best work that can lead to layoffs, which is the worst case scenario for them to lose their job.
 - **Interest in Solution:**
 They can now gain compensation packages for better performance and upholding good efficiency in their work. They will now be able to find motivation as they are getting paid more for better output, which is a known factor for increasing motivation. They can also gain more say in how the company moves forward, the satisfaction surveys will allow them to give feedback to their managers on how they are being affected within the organization.
 - **Influence Level:** [High/Medium/Low influence on solution success]
@@ -47,7 +47,7 @@ Neutral
 
 ### Suppliers/Partners
 - **Interest in Problem:** This problem will only affect suppliers and partners if they lack of motivation starts to take a toll on the business of the company, for instance if it starts to take away from income they could be receiving. That would put the suppliers in a position where they may have to stop doing business with the company.
-- **Interest in Solution:** The suppliers could lose some money they would normally get if now the company has to allocate for implentation of compensation packages. Although they could gain more money if the implementation improves business of the company.
+- **Interest in Solution:** The suppliers could lose some money they would normally get if now the company has to allocate for implementation of compensation packages. Although they could gain more money if the implementation improves business of the company.
 - **Influence Level:** Low
 - **Support Level:** Neutral
 
@@ -58,8 +58,8 @@ Neutral
 - **Support Level:** Their support will be high and their response will be to go along with the implementation as it will only better the company as well as compliance.
 
 ### Community/Society
-- **Interest in Problem:** A business not being able to provide their highest level of performance within a community can be devastating. It can lead to decline not only in company itself, but the community around it. If they are depending on workers to show up motivated and ready to go, giving the best products and services, that is what they should receive. Also this problem correlates over to layoffs and unemployment, which no community needs or wants.
-- **Interest in Solution:** If the company can continue to provide better performance due to new implementations then the community only flourishes. It can lead to more business opportunites around them as well as more jobs for those within the society. It also will increase satisfaction not only for employees but those that expect products or services from said company.
+- **Interest in Problem:** A business not being able to provide their highest level of performance within a community can be devastating. It can lead to decline not only in the company itself, but the community around it. If they are depending on workers to show up motivated and ready to go, giving the best products and services, that is what they should receive. Also this problem correlates over to layoffs and unemployment, which no community needs or wants.
+- **Interest in Solution:** If the company can continue to provide better performance due to new implementations then the community only flourishes. It can lead to more business opportunities around them as well as more jobs for those within the society. It also will increase satisfaction not only for employees but those that expect products or services from said company.
 - **Influence Level:** Medium
 - **Support Level:** High
 
@@ -101,6 +101,6 @@ Employees
 Senior management
 • Once we have gone through the first set of surveys and can make that change, as well as see the effect of performance packages. This should be able to reach them as they can see how it improves multiple parts of the job from every standpoint and allows them to know how employees feel with how they are treated.
 Middle Management
-• Middle management is the middle man and have to deal with dissatisfaction from employees as well as here it from their bosses. They may recieve a increase in workload but ultimately this will create a place where they are finding that more people around them are happy with how things are going at work.
+• Middle management is the middle man and have to deal with dissatisfaction from employees as well as hear it from their bosses. They may receive an increase in workload but ultimately this will create a place where they are finding that more people around them are happy with how things are going at work.
 
 

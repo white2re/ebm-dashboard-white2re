@@ -3,114 +3,145 @@
 
 ## SMART Success Criteria
 
-### Criterion 1: Increased workers motivation 
-- **Specific:**  We will be measuring how compensation packages can increase worker motivation, as well as how job satisfaction surveys too see if motivation is actually improving.
-- **Measurable:**  We will measure progress by taking employee satisfaction surveys, keeping data on turnover rates, as well as if workers seem more motivated from things like showing up on time, providing quality work etc.
-- **Achievable:** This solution is very realistic as it is based off multiple different HR strategies that multiple businesses have implemented to improve motivation in employees, as well as many studies from HR cases.
-- **Relevant:** It is relevant because the packages will increase motivation which leads to more satisfaction. The surveys directly give us feedback on things such as how we can work towards higher motivation.
+### Criterion 1: Increased Employee Job Satisfaction (Primary Outcome)
+- **Specific:** We will measure whether transparent, performance-linked compensation improvements increase employee job satisfaction scores through enhanced motivation.
+- **Measurable:** Track employee satisfaction surveys (1-10 scale) quarterly, comparing pre-implementation baseline to post-implementation results. Target: 15-25% improvement.
+- **Achievable:** This target is realistic based on practitioner evidence showing 15-25% satisfaction improvements within 6-12 months from similar compensation interventions.
+- **Relevant:** Job satisfaction is our primary outcome (Y in X→M→Y model). Improving satisfaction addresses the core problem of employees not wanting to come to work.
+- **Time-bound:** Assess satisfaction improvements at 6-month and 12-month milestones post-implementation.
 
-### Criterion 2: Reduced turnover
-- **Specific:** Our compensations packages and will to better employee satisfaction allow us to retain more workers and keep them satisfied.
-- **Measurable:** The HR department keeps data on recent turnover, past turnover, etc. This will allow us to compare our business under our solutions vs prior.
-- **Achievable:** This is realistic as workers will find more value in their workplace, as well as be more motivated to go to work, exceed performance and make more pay.
-- **Relevant:** Yes, if we are reducing turnover from our solutions that means that workers are finding more will to come and provide efficient work which means motivation is being increase in some way.
-- **Time-bound:** I think if we go over the data and analyze it quarterly to apply changes will be efficient. This will also HR to gather up more info over this time period so the results are not as stagnant.
-
-### Criterion 3: Positive satisfaction survey results
-- **Specific:** If our workers are saying that they enjoy the new compensation systems, as well as find joy when they are at work. They feel as if they belong and want to give company their best.
-- **Measurable:** Going through all the surveys to see what amount of workers say they are satisfied vs the ones that say they do not feel fit in this workplace.
-- **Achievable:** Yes if we provide these surveys quarterly, this will be a good enough amount of time to tell if they job satisfaction is improving or declining.
-- **Relevant:** Yes job satisfaction is a leading factor when it comes to varying job motivation, being able to find satisfaction is your job ultimately motivates you to give your best. If we receive good results that is more than relevant when it comes to improving motivation.
-- **Time-bound:** After the quarterly reviews, a week or two will be needed to go through all the surveys give HR time to effectively analyze them.
+### Criterion 2: Improved Employee Retention
+- **Specific:** Our compensation packages and commitment to better employee satisfaction allow us to retain more workers and keep them satisfied.
+- **Measurable:** The HR department keeps data on recent turnover, past turnover, etc. This will allow us to compare our business performance under our solutions vs. prior to implementation.
+- **Achievable:** This is realistic as workers will find more value in their workplace, as well as be more motivated to go to work, exceed performance expectations and earn higher pay.
+- **Relevant:** Yes, if we are reducing turnover from our solutions that means workers are finding more willingness to come and provide efficient work, which means motivation is being increased.
+- **Time-bound:** Analyzing the data quarterly will be efficient for applying changes. This will also allow HR to gather more information over this time period so the results are not stagnant.
 
 ## Measurement Framework
 
 ### Quantitative Metrics
-• Employee satisfaction, we will check the % increase of workers who are more satisfied, 15% improvement deemed successful
-• We will measure the quarterly turnover rates, reduce turnover by 10%
-• We can have HR keep track of workers who show up on time, early, and late
-• We can keep track of productivity, to see if they are actually completing new work under implementations
-• Increase in compensation coming from increased work output.
+**Primary Outcome (Y - Job Satisfaction):**
+• Job satisfaction scores: Target 15-25% improvement
+• Voluntary turnover rates: Target 34% retention improvement among previously dissatisfied employees
+• Compensation-related exit reasons: Target 50% reduction
+
+**Mediating Mechanism (M - Motivation):**
+• Motivation/engagement scores: Track quarterly to validate X→M pathway
+• Performance ratings: Target 28% improvement
+• Goal achievement rates: Track quarterly through Performance Management System
+
+**Intervention Implementation:**
+• Manager training completion: Target 90%+
+• Pay equity corrections: Target completion of identified 12% gaps
+• Performance-compensation matrix adoption: Target 100% deployment
 
 ### Qualitative Indicators
-
-- Improved employee engagement
-- Enhanced productivity rate
-- Increased worker satisfaction
-- Increased feeling of value in workplace
-
+- Employee feedback on compensation transparency and fairness
+- Manager confidence in communicating compensation decisions
+- HR assessment of implementation ease
+- Stakeholder perceptions of intervention effectiveness
 
 ### Leading vs. Lagging Indicators
 
-#### Leading Indicators (Early signals of progress)
+#### Leading Indicators (Early signals - show up first)
+**Motivation Indicators (M):**
+• Motivation/engagement score increases (3-6 months)
+• Performance rating improvements
+• Increased participation in discretionary activities
+• Improved attendance and punctuality
 
-• More participation
-• Higher collaboration in workplace
-• Decreased absenteeism rate, workers begin showing up on time.
-• Higher productivity and higher work completion
+**Implementation Fidelity:**
+• Manager training completion rates
+• Performance-compensation matrix adoption
+• Pay equity correction progress
 
-#### Lagging Indicators (Final outcomes)
-• Workplace culture is positive and aligns with companies overall goals
-• Job satisfaction surveys are showing the company moving in a positive direction as well as workers find joy in what they do,
-• Turnover rate is ultimately decreased by a decent margin.
-• Senior management is pleased with how workers are now performing at a higher standard, now that they feel valued.
+#### Lagging Indicators (Final outcomes - show up later)
+**Satisfaction Indicators (Y):**
+• Job satisfaction score improvements (6-12 months)
+• Voluntary turnover rate reductions (12 months)
+• Compensation-related exit reason decreases
+• Sustained performance improvements
 
 ## Baseline Measurements
 
 ### Current State Metrics
+**Based on Organizational Data (N=2,847):**
 
-**Metric 1:** Current Employee satisfaction rate = 65%
-**Metric 2:** Current Quarterly Turnover Rate = 12%
-**Metric 3:** Current Workplace Motivation Rate = 20% Based on Gallup's State of the Global Workplace data showing 8/10 workers feel disconnected
+**Primary Outcome Baselines:**
+**Metric 1 (Y):** Current job satisfaction scores (from employee survey platform)
+**Metric 2 (Y):** Current turnover rate with 34% gap between compensation-satisfied vs. dissatisfied employees
+**Metric 3 (Y):** Current compensation-related exit interview mentions
+
+**Mechanism Baselines:**
+**Metric 4 (M):** Current motivation/engagement scores (1-5 scale)
+**Metric 5 (M):** Current performance ratings and goal achievement rates
+
+**Problem Indicators:**
+**Metric 6:** 12% pay equity gaps across similar roles
+**Metric 7:** Lack of transparent performance-compensation connection
 
 ### Data Collection Plan
 We will get our HR department to record and analyze all the employees of the company through satisfaction surveys to gather info for that. Then for things such as turnover rate we should have on file what workers we have lost, how long their tenure was with us etc.
 
 ## Success Thresholds
 
-### Minimum Acceptable Improvement
-• Employee Satisfaction: Increase from 65% to 70%
-• Quarterly Turnover Rate: Decrease from 12% to 10%
-• Workplace Motivation Rate: Increase from 20% to 30%
-• At least 40% of employees reporting positive feedback about new the company's new compensation packages
+### Minimum Acceptable Improvement (Weak Success)
+**Primary Outcomes (Y):**
+• Job Satisfaction: 15% improvement
+• Retention: 20% improvement among previously dissatisfied employees
+• Performance: Measurable goal achievement gains
 
-### Target Performance Level
-• Employee Satisfaction: Increase to 80%
-• Quarterly Turnover Rate: Reduce to somewhere between 7-8%
-• Workplace Motivation Rate: Increase to 40%
-• At least 70% of employees reporting improved job satisfaction in quarterly surveys
-• At least 80% on-time arrival rate
-• 70% of employees improving their performance due to new compensation packages
+**Mechanism Validation (M):**
+• Motivation scores show measurable increases
+• Motivation increases occur BEFORE satisfaction increases (validating X→M→Y)
 
-### Stretch Goal
-• Employee Satisfaction: Reach 90%
-• Quarterly Turnover Rate: Reduce to 5% or lower
-• Workplace Motivation Rate: Reach 50% or higher
-• 90% of workers improve performance due to compensation packages
-• • At least 85% of employees reporting improved job satisfaction in quarterly surveys
+**Implementation:**
+• Manager training completed
+• Pay equity corrections implemented
+• Performance-compensation matrix deployed
+
+### Target Performance Level (Moderate Success)
+**Primary Outcomes (Y):**
+• Job Satisfaction: 15-19% improvement
+• Retention: 20-29% improvement among previously dissatisfied employees
+• Performance: 20-27% goal achievement improvement
+
+**Mechanism Validation (M):**
+• Partial validation of X→M→Y pathway
+• Motivation increases correlate with satisfaction gains
+• Some moderator interference (e.g., economic conditions, manager quality variations)
+
+### Stretch Goal (Strong Success)
+**Primary Outcomes (Y):**
+• Job Satisfaction: 20-25% improvement
+• Retention: 30%+ improvement among previously dissatisfied employees
+• Performance: 28%+ goal achievement improvement
+
+**Mechanism Validation (M):**
+• Full validation of compensation → motivation → satisfaction pathway
+• Clear evidence that compensation improvements → motivation increases → satisfaction gains
+• Sustained effects at 12 months
+• Minimal moderator interference
 
 ## Stakeholder-Specific Success Criteria
 
 ### Management Success Measures
-• Decreased turnover rate to target 8%
-• Improved productivity rate from performance-based compensation
-• Positive workplace culture that helps aligns with company goals
-• Reduction in absenteeism and late arrivals if any at all
-• Higher quality work output due to more motivated employees
-• Successful implementation of quarterly survey system
+• Improved retention (34% gap closure) reduces recruitment and training costs
+• Higher performance (28% goal achievement) improves organizational outcomes
+• Clear, transparent compensation system reduces manager burden explaining pay decisions
+• Validated logic model demonstrates evidence-based decision-making
 
 ### Employee Success Measures
-• Management promoting fair and transparent performance-based compensation packages
-• Feeling valued and recognized for more contribution
-• Better work-life balance due to job satisfaction
-• Positive workplace environment and culture
-• Clear understanding of performance expectations and rewards
+• Improved job satisfaction (15-25% increase) means employees want to come to work
+• Fair, transparent compensation (12% gap closure) reduces perceived inequity
+• Clear performance-pay connection shows employees how their work matters
+• Increased motivation leads to better performance and career progression
 
-### Customer Success Measures
-• Higher quality products and services from more engaged employees
-• Better customer interactions with staff that are more motivated
-• Less culture change due to decreased employee turnover
-• More output from workers who actually enjoy their work
+### HR Success Measures
+• Reduced turnover (34% improvement) decreases recruitment workload
+• Evidence-based intervention demonstrates HR's strategic value
+• Systematic evaluation provides data for continuous improvement
+• Successful implementation builds capability for future EBM projects
 ## Risk Indicators
 
 ### Red Flags
@@ -137,21 +168,20 @@ We will get our HR department to record and analyze all the employees of the com
 • Setup of performance tracking systems
 
 ### Medium-term (3-6 months)
-• First quarterly turnover rate analysis (aiming for reduction to 10%)
+• First quarterly turnover rate analysis
 • Completion of second round of satisfaction surveys to see what are the needed changes
-• Clear performance improvement data
-• Employee satisfaction trending toward 70% target
-• Workplace motivation improving from 20% baseline to one that continues to build on our solution effectiveness
+• Early signs of performance improvement data
+• Employee motivation scores showing initial increases (leading indicator)
 • Reduction in absenteeism rates
-• Productivity under new system
+• Productivity improvements under new system
 
 ### Long-term (6-12 months)
-• Achievement of 15% improvement in employee satisfaction
-• Turnover rate stabilized at target 7-8%
-• Workplace motivation rate reaching target 40%
-• Establishment of positive workplace culture
+• Achievement of 15-25% improvement in employee job satisfaction scores
+• Retention improvement of 20-34% among previously dissatisfied employees (targeting the gap closure)
+• Performance improvements of 20-28% in goal achievement rates
+• Establishment of positive workplace culture around fair compensation
 • Development of long-term retention strategies
-• At least 70% of employees showing improved performance
+• Sustained satisfaction and motivation improvements
 
 ## Reporting Framework
 We will communicate progress by providing feedback to our employees based off what we receive from our surveys. We can hold meetings to ensure they know and understand that our implementations are successful or not.
